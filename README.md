@@ -15,5 +15,4 @@
 
 ## Android App
 #### Black Survivor Dictionary
-<img src="https://user-images.githubusercontent.com/74566094/133258712-d56d5d18-ada3-458e-9d49-e2c8b9757108.PNG" width = "20%|height = 40"/>
-<img src="https://user-images.githubusercontent.com/74566094/133259383-c5bac990-3079-4dc0-b3e6-14aea08660d8.jpg" width = "20%|height = 40"/>
+<img src="https://user-images.githubusercontent.com/74566094/133258712-d56d5d18-ada3-458e-9d49-e2c8b9757108.PNG" width = "20%|height = 40"/><img src="https://user-images.githubusercontent.com/74566094/133259383-c5bac990-3079-4dc0-b3e6-14aea08660d8.jpg" width = "20%|height = 40"/>
