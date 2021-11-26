@@ -14,3 +14,4 @@
   * 시즌에스 (스타트업) 5개월 근무 중 위치위치 앱 개발 및 유지보수
 
 ## Android App
+#### Black Survivor Dictionary
