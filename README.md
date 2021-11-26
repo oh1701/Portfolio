@@ -5,4 +5,4 @@
 
 * 진행 프로젝트 : Black Survivor Dictionary , One Day Running, DD Diary, 투윗미  
 * 경력
-  안드로이드 10개월
+  * 안드로이드 10개월
