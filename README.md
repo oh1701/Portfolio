@@ -45,7 +45,7 @@
   * Retrofit2
   * ViewPager
 
-<img width="227" alt="화면 캡처 2021-11-26 182847" src="https://user-images.githubusercontent.com/74566094/143559151-7ed29be7-419d-4c03-adae-7fa860e55373.png"><img width="226" alt="화면 캡처 2021-11-26 182901" src="https://user-images.githubusercontent.com/74566094/143559204-0c2b2061-46c1-45b1-b356-e75d73faf1f4.png"> <img width="224" alt="화면 캡처 2021-11-26 182937" src="https://user-images.githubusercontent.com/74566094/143559341-a6999b69-8f11-4c16-9c23-01ed53df5653.png"> <img width="223" alt="화면 캡처 2021-11-26 182918" src="https://user-images.githubusercontent.com/74566094/143559392-5409978c-a167-4767-9ae7-9a254e3f4b5d.png"> <img width="226" alt="화면 캡처 2021-11-26 182949" src="https://user-images.githubusercontent.com/74566094/143559455-22dd1a85-1fba-4c45-ab4a-7e45878090ea.png">
+<img width="227" alt="화면 캡처 2021-11-26 182847" src="https://user-images.githubusercontent.com/74566094/143559151-7ed29be7-419d-4c03-adae-7fa860e55373.png"> <img width="226" alt="화면 캡처 2021-11-26 182901" src="https://user-images.githubusercontent.com/74566094/143559204-0c2b2061-46c1-45b1-b356-e75d73faf1f4.png"> <img width="224" alt="화면 캡처 2021-11-26 182937" src="https://user-images.githubusercontent.com/74566094/143559341-a6999b69-8f11-4c16-9c23-01ed53df5653.png"> <img width="223" alt="화면 캡처 2021-11-26 182918" src="https://user-images.githubusercontent.com/74566094/143559392-5409978c-a167-4767-9ae7-9a254e3f4b5d.png"> <img width="226" alt="화면 캡처 2021-11-26 182949" src="https://user-images.githubusercontent.com/74566094/143559455-22dd1a85-1fba-4c45-ab4a-7e45878090ea.png">
 
 
 ## DD Diary (개인)
