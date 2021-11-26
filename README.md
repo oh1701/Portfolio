@@ -15,4 +15,4 @@
 
 ## Android App
 #### Black Survivor Dictionary
-<img src="https://user-images.githubusercontent.com/74566094/133258712-d56d5d18-ada3-458e-9d49-e2c8b9757108.PNG" width = "30%|height = 50"/>
+<img src="https://user-images.githubusercontent.com/74566094/133258712-d56d5d18-ada3-458e-9d49-e2c8b9757108.PNG" width = "20%|height = 40"/>
