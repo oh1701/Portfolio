@@ -22,13 +22,14 @@
 [프로젝트 내용] 커플들이 체험한 여행지들에 대한 이야기를 담아내는 여행일기 어플
 
 [주 사용 기술 및 라이브러리]
-  * Room (데이터 저장용 DB)
-  * Rxkotlin (비동기 처리 및 여러 가지 이벤트들 처리용으로 사용)
-  * MVVM (코드 설계)
-  * DataBinding (BindingAdapter 사용 및 코드 분리를 위해 사용)
-  * Koin (DI 적용)
-  * Gldie ( 이미지 처리)
-  * ColorPicker (사용자가 원하는 글씨 색상 선택 가능)
+  * Room 
+  * Rxkotlin 
+  * MVVM 
+  * DataBinding, BindingAdapter
+  * Koin
+  * Glide
+  * GoogleMap
+  * ColorPicker
 
 ## Witch Witch (시즌에스)
 
@@ -39,6 +40,7 @@
 [주 사용 기술 및 라이브러리]
   * Coroutine
   * GoogleMap
+  * Glide
   * kakao, google, naver SDK
   * Retrofit2
   * ViewPager
@@ -51,11 +53,12 @@
 
 [주 사용 기술 및 라이브러리]
   * Room 
+  * Coroutine 
+  * Glide
   * ColorPicker 
   * FlexBoxLayout 
   * RecyclerView 
   * ViewModel 
-  * Coroutine 
    
 <img src = "https://user-images.githubusercontent.com/74566094/133261750-bd12c2e8-552e-4954-b102-d7a938da6b19.png" width = "20%|height= 40"/> <img src = "https://user-images.githubusercontent.com/74566094/133261931-c4c5e32e-3683-4a35-8589-823f31dbcfeb.png" width = "20%|height= 40"/> <img src = "https://user-images.githubusercontent.com/74566094/133261812-b67684f1-bcee-481f-906d-f13e65d14c4e.png" width = "20%|height= 40"/> <img src = "https://user-images.githubusercontent.com/74566094/133548235-1c5baa34-1acc-46c8-b159-8616e3bf8008.png" width = "20%|height= 40"/> <img src = "https://user-images.githubusercontent.com/74566094/133548280-93bef7f4-b670-4d0c-91ac-bec8a4d4ef83.png" width = "20%|height= 40"/> <img src = "https://user-images.githubusercontent.com/74566094/133548300-f48ae08b-2cac-41a0-908f-e066303848ae.png" width = "20%|height= 40"/> <img src = "https://user-images.githubusercontent.com/74566094/133548317-41d259e2-0405-40a8-ad78-d32695c57d4a.png" width = "20%|height= 40"/>
 ## One Day Running (개인)
