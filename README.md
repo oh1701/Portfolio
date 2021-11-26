@@ -23,8 +23,8 @@
 [프로젝트 내용] 온라인 게임 <블랙 서바이벌 영원회귀> 의 게임 정보가 담긴 애플리케이션
 
 [주 사용 기술]
-  * RecyclerView
-  * Filter
-  * Custom Dialog
+  * RecyclerView (아이템 표출)
+  * Filter (검색 기능 구현)
+  * Custom Dialog (정보 창 구현)
     
 <img src="https://user-images.githubusercontent.com/74566094/133259383-c5bac990-3079-4dc0-b3e6-14aea08660d8.jpg" width = "20%|height = 40"/> <img src="https://user-images.githubusercontent.com/74566094/133259520-7908e9de-072c-4865-be5d-0b2cce9e0e3c.jpg" width = "20%|height = 40"/> <img src="https://user-images.githubusercontent.com/74566094/133259672-6ec9cdad-cca6-4406-81be-652889cf4689.jpg" width = "20%|height = 40"/> <img src="https://user-images.githubusercontent.com/74566094/133260072-4a1c0127-e969-469f-96e1-5890883c905e.jpg" width = "20%|height = 40"/> <img src="https://user-images.githubusercontent.com/74566094/133260216-b5ba3592-c684-461e-bc1f-49b2fa2acb0c.jpg" width = "20%|height = 40"/> <img src="https://user-images.githubusercontent.com/74566094/133259889-adaebe29-bb08-4bee-ac3f-5fe276d3f3bf.jpg" width = "20%|height = 40"/>
