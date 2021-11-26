@@ -45,6 +45,7 @@
   * Retrofit2
   * ViewPager
 
+<img width="227" alt="화면 캡처 2021-11-26 182847" src="https://user-images.githubusercontent.com/74566094/143559151-7ed29be7-419d-4c03-adae-7fa860e55373.png">
 ## DD Diary (개인)
   
 [프로젝트 기간] 2020-4 ~ 2020-5
