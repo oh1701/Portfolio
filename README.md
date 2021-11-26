@@ -30,6 +30,7 @@
   * Glide
   * GoogleMap
   * ColorPicker
+  * lottiAnimation
 
 ## Witch Witch (시즌에스)
 
